@@ -1,0 +1,34 @@
+body{
+ font-family: 'Arvo', serif;
+}
+
+.filler{
+ background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)) ,url(../img/landscape.jpg)center/cover no-repeat fixed;
+ }
+
+.title-underline{
+ width: 350px;
+ height: 10px;
+ margin: 0 auto;
+ /* background: blue!important; */
+}
+
+.vial{
+    font-size:14px;
+}
+
+.normadas{
+    font-size:14px;
+}
+
+.seguridad{
+    font-size:14px;
+}
+
+.publicidad{
+    font-size:14px;
+}
+
+.logo{
+    font-size:14px;
+}
