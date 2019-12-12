@@ -3,7 +3,7 @@ body{
 }
 
 .filler{
- background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)) ,url(../img/landscape.jpg)center/cover no-repeat fixed;
+ background:linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)) ,url(../img/title_vial.jpg)center/cover no-repeat fixed;
  }
 
 .title-underline{
