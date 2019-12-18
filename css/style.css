@@ -5,13 +5,31 @@ body{
 
 
 @media (max-width: 590px) {
-
     .navbar-nav {
         font-size: 0.97rem;
     }
-
 }
 
+.single-item:hover {
+    -webkit-box-shadow: 0 10px 15px rgb(0, 0, 0);
+    box-shadow: 0 10px 15px rgb(0, 0, 0);
+  }
+
+.img-container {
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+  }
+ 
+.store-img {
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+  }
+
+.img-container:hover .store-img {
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+  }
 
 .fondo{
  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(../img/title_vial.jpg)center/cover no-repeat fixed;
