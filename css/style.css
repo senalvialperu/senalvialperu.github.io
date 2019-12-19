@@ -12,7 +12,9 @@ body{
 
 }
 .single-item{
+    display: flex;
     min-height: 522.95px;
+
 }
 
 .single-item:hover {
@@ -27,7 +29,8 @@ body{
     min-height: 350px;
   }
 
-.alineaz{
+.card{
+    max-width: 440px;
     
 } 
   
@@ -40,6 +43,7 @@ body{
 .store-img {
     -webkit-transition: all 1s ease-in-out;
     transition: all 1s ease-in-out;
+    
   }
 
 .img-container:hover .store-img {
