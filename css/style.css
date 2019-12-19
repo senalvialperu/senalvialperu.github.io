@@ -26,11 +26,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 350px;
+    
   }
 
 .card{
     max-width: 440px;
+    min-height: 544.58px;
     
 } 
   
