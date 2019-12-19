@@ -8,6 +8,11 @@ body{
     .navbar-nav {
         font-size: 0.97rem;
     }
+
+
+}
+.single-item{
+    min-height: 522.95px;
 }
 
 .single-item:hover {
@@ -15,6 +20,18 @@ body{
     box-shadow: 0 10px 15px rgb(0, 0, 0);
   }
 
+.alineav  {  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 522.95px;
+  }
+
+.alineaz{
+
+    
+} 
+  
 .img-container {
     position: relative;
     overflow: hidden;
@@ -33,6 +50,7 @@ body{
 
 .fondo{
  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(../img/title_vial.jpg)center/cover no-repeat fixed;
+
  }
 
 .title-underline{
