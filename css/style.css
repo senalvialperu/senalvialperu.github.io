@@ -1,6 +1,5 @@
 body{
- font-family: 'Arvo', serif;
- color: #f25f2e;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 
@@ -10,10 +9,9 @@ body{
     } */
 
 
-}
 .single-item{
     display: flex;
-    min-height: 522.95px;
+    min-height: 350px;
 
 }
 
@@ -29,12 +27,17 @@ body{
     
   }
 
+/* .container-fluid { max-width: 1200px; }
+ */
 .card{
-    max-width: 440px;
+     max-width: 440px;
     min-height: 544.58px;
-    
+/* width: 19rem;
+ */
 } 
   
+
+
 .img-container {
     position: relative;
     overflow: hidden;
@@ -53,8 +56,8 @@ body{
   }
 
 .fondo{
- background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)) ,url(../img/title_vial.jpg)center/cover no-repeat fixed;
-
+ background:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.1)) ,url(../img/title_vial3.png)center/cover no-repeat fixed;
+ font-family: 'Audiowide', cursive;
  }
 
 .title-underline{
@@ -62,6 +65,10 @@ body{
  height: 10px;
  margin: 0 auto;
  /* background: blue!important; */
+}
+
+.interlineado {
+    line-height: 2;
 }
 
 .vial{
