@@ -41,7 +41,7 @@ body{
 /* .container-fluid { max-width: 1200px; }
  */
 .card{
-     max-width: 440px;
+     max-width: 350px;
     min-height: 544.58px;
 /* width: 19rem;
  */
@@ -51,6 +51,7 @@ body{
     position: relative;
     overflow: hidden;
     cursor: pointer;
+
   }
  
 .store-img {
