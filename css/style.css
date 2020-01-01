@@ -76,6 +76,10 @@ body{
  /* background: blue!important; */
 }
 
+.maxalt {
+    max-height: 350px;    
+}
+
 .interlineado {
     line-height: 2;
 }
