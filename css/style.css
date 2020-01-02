@@ -15,6 +15,10 @@ body{
 
 }
 
+.img-logo {
+ max-width: 200px;
+}
+
 .single-item:hover {
     -webkit-box-shadow: 0 10px 15px rgb(0, 0, 0);
     box-shadow: 0 10px 15px rgb(0, 0, 0);
