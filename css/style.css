@@ -81,6 +81,10 @@ body{
  /* background: blue!important; */
 }
 
+.elemento:hover {
+    background-color: #dc3545;
+    }
+
 .maxalt {
     max-height: 350px;    
 }
